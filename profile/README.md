@@ -8,15 +8,15 @@
 
 ## AI Detection and Response (AIDR)
 
-Vigil Guard delivers a runtime security layer for the AI stack. Founded in 2024 by a team with 20+ years in cybersecurity (CrowdStrike, Cisco, IBM, Riverbed), we give enterprises the same visibility and control over AI that they already have over networks, endpoints, and identities.
+Vigil Guard delivers a runtime security layer for the AI stack — from LLM applications to autonomous AI agents. Founded in 2026 by Tomasz Bartel — a security practitioner with 20+ years in cybersecurity (CrowdStrike, Cisco, IBM, Riverbed) — we give enterprises the same visibility and control over AI and agentic systems that they already have over networks, endpoints, and identities.
 
 ## Why AIDR
 
-AI moved into the enterprise faster than the controls built to govern it. Traditional security tools cannot see what a model is being asked, what it returns, or how an agent behaves in production. Guardrails and policies are not operational security. Shadow AI spreads across browsers and SaaS, agentic systems take real actions, and natural language becomes instruction, data, and attack vector at the same time.
+AI moved into the enterprise faster than the controls built to govern it, and AI agents are widening that gap. Traditional security tools cannot see what a model is being asked, what it returns, which tools an agent calls, or how it behaves across a long-running session. Guardrails and policies are not operational security. Shadow AI spreads across browsers and SaaS, agentic systems take real actions on production data, and natural language becomes instruction, data, and attack vector at the same time.
 
 ## What We Do
 
-Vigil Guard treats natural language as a new control plane. The platform detects prompt injection, jailbreaks, data exfiltration, token smuggling, and Unicode exploits, and enforces **ALLOW / SANITIZE / BLOCK** controls on agents in real time.
+Vigil Guard treats natural language — and every agent interaction (prompts, tool calls, outputs, multi-turn drift) — as a new control plane. The platform detects prompt injection, jailbreaks, data exfiltration, token smuggling, Unicode exploits, and scope drift across agent sessions, and enforces **ALLOW / SANITIZE / BLOCK** controls on models and agents in real time.
 
 ### Capabilities
 
